@@ -1,0 +1,13 @@
+# Summary
+
+* [Introduction](README.md)
+* [background](background.md)
+* [core_rules](core_rules.md)
+* [personnages](personnages.md)
+* [combat](combat.md)
+* [maitre_d_arme](maitre_d_arme.md)
+* [armurerie](armurerie.md)
+* [magie](magie.md)
+* [grimoire](grimoire.md)
+* [creation](creation.md)
+* [deprecated](deprecated.md)
