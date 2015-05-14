@@ -250,8 +250,6 @@ directement rattachée à une caractéristique. Elles se regroupent en plusieurs
 
 ### Compétences de margoulin
 
-
-
 |Nom                  |  Caractéristique rattachée|
 |:-----|-----------------------------------------|
 |Déguisement          |DEX|
